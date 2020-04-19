@@ -1,4 +1,11 @@
+/* --------------------
+ * @overlook/{{name}} module
+ * Jest config
+ * ------------------*/
+
 'use strict';
+
+// Exports
 
 module.exports = {
 	testEnvironment: 'node',
