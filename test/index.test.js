@@ -6,10 +6,10 @@
 'use strict';
 
 // Modules
-const {{nameCamel}} = require('../index');
+const {{nameCamel}} = require('../index.js');
 
 // Init
-require('./support');
+require('./support/index.js');
 
 // Tests
 
