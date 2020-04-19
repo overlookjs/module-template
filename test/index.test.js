@@ -6,7 +6,7 @@
 'use strict';
 
 // Modules
-const {{nameCamel}} = require('../index.js');
+const {{nameCamel}} = require('@overlook/{{name}}');
 
 // Init
 require('./support/index.js');
